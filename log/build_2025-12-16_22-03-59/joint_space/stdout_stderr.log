@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/joint_space/joint_space.egg-info
+writing ../../build/joint_space/joint_space.egg-info/PKG-INFO
+writing dependency_links to ../../build/joint_space/joint_space.egg-info/dependency_links.txt
+writing entry points to ../../build/joint_space/joint_space.egg-info/entry_points.txt
+writing requirements to ../../build/joint_space/joint_space.egg-info/requires.txt
+writing top-level names to ../../build/joint_space/joint_space.egg-info/top_level.txt
+writing manifest file '../../build/joint_space/joint_space.egg-info/SOURCES.txt'
+reading manifest file '../../build/joint_space/joint_space.egg-info/SOURCES.txt'
+writing manifest file '../../build/joint_space/joint_space.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/itachi/ws/iiwa_ws/build/joint_space/build
+creating /home/itachi/ws/iiwa_ws/build/joint_space/build/lib
+creating /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space
+copying joint_space/trapezoidal_generator.py -> /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space
+copying joint_space/__init__.py -> /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space
+copying joint_space/my_generator.py -> /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space
+running install
+running install_lib
+creating /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space
+copying /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space/trapezoidal_generator.py -> /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space
+copying /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space/__init__.py -> /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space
+copying /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space/my_generator.py -> /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space
+byte-compiling /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space/trapezoidal_generator.py to trapezoidal_generator.cpython-312.pyc
+byte-compiling /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space/my_generator.py to my_generator.cpython-312.pyc
+running install_data
+creating /home/itachi/ws/iiwa_ws/install/joint_space/share/ament_index
+creating /home/itachi/ws/iiwa_ws/install/joint_space/share/ament_index/resource_index
+creating /home/itachi/ws/iiwa_ws/install/joint_space/share/ament_index/resource_index/packages
+copying resource/joint_space -> /home/itachi/ws/iiwa_ws/install/joint_space/share/ament_index/resource_index/packages
+copying package.xml -> /home/itachi/ws/iiwa_ws/install/joint_space/share/joint_space
+running install_egg_info
+Copying ../../build/joint_space/joint_space.egg-info to /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space-0.0.0-py3.12.egg-info
+running install_scripts
+Installing my_generator script to /home/itachi/ws/iiwa_ws/install/joint_space/lib/joint_space
+Installing trapezoid_motion script to /home/itachi/ws/iiwa_ws/install/joint_space/lib/joint_space
+Installing trapezoidal_generator script to /home/itachi/ws/iiwa_ws/install/joint_space/lib/joint_space
+writing list of installed files to '/home/itachi/ws/iiwa_ws/build/joint_space/install.log'

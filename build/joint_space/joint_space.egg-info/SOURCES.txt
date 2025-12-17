@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/joint_space/joint_space.egg-info/PKG-INFO
+../../build/joint_space/joint_space.egg-info/SOURCES.txt
+../../build/joint_space/joint_space.egg-info/dependency_links.txt
+../../build/joint_space/joint_space.egg-info/entry_points.txt
+../../build/joint_space/joint_space.egg-info/requires.txt
+../../build/joint_space/joint_space.egg-info/top_level.txt
+../../build/joint_space/joint_space.egg-info/zip-safe
+joint_space/__init__.py
+joint_space/my_generator.py
+joint_space/trapezoidal_generator.py
+resource/joint_space
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,50 @@
+[0.161s] Invoking command in '/home/itachi/ws/iiwa_ws/build/kuka_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itachi/ws/kuka_ws/install/joint_space:/home/itachi/ws/r6bot/install/my_trajectory:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/itachi/ws/iiwa_ws/build/kuka_description -- -j12 -l12
+[0.189s] Invoked command in '/home/itachi/ws/iiwa_ws/build/kuka_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itachi/ws/kuka_ws/install/joint_space:/home/itachi/ws/r6bot/install/my_trajectory:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/itachi/ws/iiwa_ws/build/kuka_description -- -j12 -l12
+[0.197s] Invoking command in '/home/itachi/ws/iiwa_ws/build/kuka_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itachi/ws/kuka_ws/install/joint_space:/home/itachi/ws/r6bot/install/my_trajectory:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/itachi/ws/iiwa_ws/build/kuka_description
+[0.203s] -- Install configuration: ""
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link3.STL
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link3.DAE
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link4.DAE
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link5.DAE
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link6.STL
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link6.DAE
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link1.STL
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link4.STL
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link5.STL
+[0.203s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link2.DAE
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link7.DAE
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link7.STL
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/base_link.STL
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link2.STL
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/link1.DAE
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//meshes/base_link.DAE
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//urdf
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//urdf/kuka_iiwa.xacro
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//urdf/lbr_iiwa7_r800.csv
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//urdf/kuka_gazebo.xacro
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//urdf/lbr_iiwa7_r800.urdf
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//config
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//config/kuka_controllers.yaml
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//config/gazebo_bridge.yaml
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//launch
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//launch/display.launch.xml
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//launch/controllers.launch.xml
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//rviz
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description//rviz/urdf_config.rviz
+[0.204s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/ament_index/resource_index/package_run_dependencies/kuka_description
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/ament_index/resource_index/parent_prefix_path/kuka_description
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/environment/ament_prefix_path.sh
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/environment/ament_prefix_path.dsv
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/environment/path.sh
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/environment/path.dsv
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/local_setup.bash
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/local_setup.sh
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/local_setup.zsh
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/local_setup.dsv
+[0.205s] -- Installing: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/package.dsv
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/ament_index/resource_index/packages/kuka_description
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/cmake/kuka_descriptionConfig.cmake
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/cmake/kuka_descriptionConfig-version.cmake
+[0.205s] -- Up-to-date: /home/itachi/ws/iiwa_ws/install/kuka_description/share/kuka_description/package.xml
+[0.206s] Invoked command in '/home/itachi/ws/iiwa_ws/build/kuka_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itachi/ws/kuka_ws/install/joint_space:/home/itachi/ws/r6bot/install/my_trajectory:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/itachi/ws/iiwa_ws/build/kuka_description

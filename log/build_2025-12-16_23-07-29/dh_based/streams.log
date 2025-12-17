@@ -1,0 +1,36 @@
+[0.664s] Invoking command in '/home/itachi/ws/iiwa_ws/src/dh_based': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/itachi/ws/iiwa_ws/build/dh_based/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dh_based build --build-base /home/itachi/ws/iiwa_ws/build/dh_based/build install --record /home/itachi/ws/iiwa_ws/build/dh_based/install.log --single-version-externally-managed install_data
+[0.879s] running egg_info
+[0.879s] creating ../../build/dh_based/dh_based.egg-info
+[0.895s] writing ../../build/dh_based/dh_based.egg-info/PKG-INFO
+[0.895s] writing dependency_links to ../../build/dh_based/dh_based.egg-info/dependency_links.txt
+[0.896s] writing requirements to ../../build/dh_based/dh_based.egg-info/requires.txt
+[0.896s] writing top-level names to ../../build/dh_based/dh_based.egg-info/top_level.txt
+[0.896s] writing manifest file '../../build/dh_based/dh_based.egg-info/SOURCES.txt'
+[0.930s] reading manifest file '../../build/dh_based/dh_based.egg-info/SOURCES.txt'
+[0.930s] adding license file 'LICENSE'
+[0.930s] writing manifest file '../../build/dh_based/dh_based.egg-info/SOURCES.txt'
+[0.930s] running build
+[0.931s] running build_py
+[0.931s] creating /home/itachi/ws/iiwa_ws/build/dh_based/build
+[0.931s] creating /home/itachi/ws/iiwa_ws/build/dh_based/build/lib
+[0.931s] creating /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based
+[0.931s] copying dh_based/__init__.py -> /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based
+[0.931s] copying dh_based/DH_param.py -> /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based
+[0.931s] running install
+[0.936s] running install_lib
+[0.953s] creating /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based
+[0.953s] copying /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based/__init__.py -> /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based
+[0.953s] copying /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based/DH_param.py -> /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based
+[0.953s] byte-compiling /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based/__init__.py to __init__.cpython-312.pyc
+[0.954s] byte-compiling /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based/DH_param.py to DH_param.cpython-312.pyc
+[0.954s] running install_data
+[0.954s] creating /home/itachi/ws/iiwa_ws/install/dh_based/share/ament_index
+[0.954s] creating /home/itachi/ws/iiwa_ws/install/dh_based/share/ament_index/resource_index
+[0.954s] creating /home/itachi/ws/iiwa_ws/install/dh_based/share/ament_index/resource_index/packages
+[0.954s] copying resource/dh_based -> /home/itachi/ws/iiwa_ws/install/dh_based/share/ament_index/resource_index/packages
+[0.955s] copying package.xml -> /home/itachi/ws/iiwa_ws/install/dh_based/share/dh_based
+[0.955s] running install_egg_info
+[0.973s] Copying ../../build/dh_based/dh_based.egg-info to /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based-0.0.0-py3.12.egg-info
+[0.973s] running install_scripts
+[1.082s] writing list of installed files to '/home/itachi/ws/iiwa_ws/build/dh_based/install.log'
+[1.102s] Invoked command in '/home/itachi/ws/iiwa_ws/src/dh_based' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/itachi/ws/iiwa_ws/build/dh_based/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dh_based build --build-base /home/itachi/ws/iiwa_ws/build/dh_based/build install --record /home/itachi/ws/iiwa_ws/build/dh_based/install.log --single-version-externally-managed install_data

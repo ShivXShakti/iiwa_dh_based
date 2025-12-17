@@ -1,0 +1,42 @@
+[0.772s] Invoking command in '/home/itachi/ws/iiwa_ws/src/joint_space': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/itachi/ws/iiwa_ws/build/joint_space/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joint_space build --build-base /home/itachi/ws/iiwa_ws/build/joint_space/build install --record /home/itachi/ws/iiwa_ws/build/joint_space/install.log --single-version-externally-managed install_data
+[0.978s] running egg_info
+[0.979s] creating ../../build/joint_space/joint_space.egg-info
+[0.993s] writing ../../build/joint_space/joint_space.egg-info/PKG-INFO
+[0.993s] writing dependency_links to ../../build/joint_space/joint_space.egg-info/dependency_links.txt
+[0.993s] writing entry points to ../../build/joint_space/joint_space.egg-info/entry_points.txt
+[0.993s] writing requirements to ../../build/joint_space/joint_space.egg-info/requires.txt
+[0.993s] writing top-level names to ../../build/joint_space/joint_space.egg-info/top_level.txt
+[0.993s] writing manifest file '../../build/joint_space/joint_space.egg-info/SOURCES.txt'
+[1.024s] reading manifest file '../../build/joint_space/joint_space.egg-info/SOURCES.txt'
+[1.025s] writing manifest file '../../build/joint_space/joint_space.egg-info/SOURCES.txt'
+[1.025s] running build
+[1.025s] running build_py
+[1.025s] creating /home/itachi/ws/iiwa_ws/build/joint_space/build
+[1.025s] creating /home/itachi/ws/iiwa_ws/build/joint_space/build/lib
+[1.025s] creating /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space
+[1.025s] copying joint_space/trapezoidal_generator.py -> /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space
+[1.025s] copying joint_space/__init__.py -> /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space
+[1.025s] copying joint_space/my_generator.py -> /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space
+[1.025s] running install
+[1.030s] running install_lib
+[1.045s] creating /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space
+[1.045s] copying /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space/trapezoidal_generator.py -> /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space
+[1.045s] copying /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space/__init__.py -> /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space
+[1.045s] copying /home/itachi/ws/iiwa_ws/build/joint_space/build/lib/joint_space/my_generator.py -> /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space
+[1.045s] byte-compiling /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space/trapezoidal_generator.py to trapezoidal_generator.cpython-312.pyc
+[1.046s] byte-compiling /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space/__init__.py to __init__.cpython-312.pyc
+[1.046s] byte-compiling /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space/my_generator.py to my_generator.cpython-312.pyc
+[1.047s] running install_data
+[1.047s] creating /home/itachi/ws/iiwa_ws/install/joint_space/share/ament_index
+[1.047s] creating /home/itachi/ws/iiwa_ws/install/joint_space/share/ament_index/resource_index
+[1.047s] creating /home/itachi/ws/iiwa_ws/install/joint_space/share/ament_index/resource_index/packages
+[1.047s] copying resource/joint_space -> /home/itachi/ws/iiwa_ws/install/joint_space/share/ament_index/resource_index/packages
+[1.047s] copying package.xml -> /home/itachi/ws/iiwa_ws/install/joint_space/share/joint_space
+[1.047s] running install_egg_info
+[1.063s] Copying ../../build/joint_space/joint_space.egg-info to /home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages/joint_space-0.0.0-py3.12.egg-info
+[1.064s] running install_scripts
+[1.161s] Installing my_generator script to /home/itachi/ws/iiwa_ws/install/joint_space/lib/joint_space
+[1.161s] Installing trapezoid_motion script to /home/itachi/ws/iiwa_ws/install/joint_space/lib/joint_space
+[1.161s] Installing trapezoidal_generator script to /home/itachi/ws/iiwa_ws/install/joint_space/lib/joint_space
+[1.161s] writing list of installed files to '/home/itachi/ws/iiwa_ws/build/joint_space/install.log'
+[1.180s] Invoked command in '/home/itachi/ws/iiwa_ws/src/joint_space' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/itachi/ws/iiwa_ws/build/joint_space/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itachi/ws/iiwa_ws/install/joint_space/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joint_space build --build-base /home/itachi/ws/iiwa_ws/build/joint_space/build install --record /home/itachi/ws/iiwa_ws/build/joint_space/install.log --single-version-externally-managed install_data

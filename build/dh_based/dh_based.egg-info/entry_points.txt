@@ -1,0 +1,2 @@
+[console_scripts]
+DH_param = dh_based.DH_param:main

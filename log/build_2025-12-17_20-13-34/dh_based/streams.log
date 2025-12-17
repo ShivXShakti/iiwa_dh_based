@@ -1,0 +1,28 @@
+[0.725s] Invoking command in '/home/itachi/ws/iiwa_ws/src/dh_based': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/itachi/ws/iiwa_ws/build/dh_based/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dh_based build --build-base /home/itachi/ws/iiwa_ws/build/dh_based/build install --record /home/itachi/ws/iiwa_ws/build/dh_based/install.log --single-version-externally-managed install_data
+[0.921s] running egg_info
+[0.936s] writing ../../build/dh_based/dh_based.egg-info/PKG-INFO
+[0.936s] writing dependency_links to ../../build/dh_based/dh_based.egg-info/dependency_links.txt
+[0.936s] writing entry points to ../../build/dh_based/dh_based.egg-info/entry_points.txt
+[0.936s] writing requirements to ../../build/dh_based/dh_based.egg-info/requires.txt
+[0.937s] writing top-level names to ../../build/dh_based/dh_based.egg-info/top_level.txt
+[0.968s] reading manifest file '../../build/dh_based/dh_based.egg-info/SOURCES.txt'
+[0.968s] adding license file 'LICENSE'
+[0.969s] writing manifest file '../../build/dh_based/dh_based.egg-info/SOURCES.txt'
+[0.969s] running build
+[0.969s] running build_py
+[0.969s] copying dh_based/helper_fns.py -> /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based
+[0.969s] copying dh_based/DH_param.py -> /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based
+[0.969s] running install
+[0.974s] running install_lib
+[0.989s] copying /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based/helper_fns.py -> /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based
+[0.989s] copying /home/itachi/ws/iiwa_ws/build/dh_based/build/lib/dh_based/DH_param.py -> /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based
+[0.989s] byte-compiling /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based/helper_fns.py to helper_fns.cpython-312.pyc
+[0.989s] byte-compiling /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based/DH_param.py to DH_param.cpython-312.pyc
+[0.990s] running install_data
+[0.990s] running install_egg_info
+[1.007s] removing '/home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based-0.0.0-py3.12.egg-info' (and everything under it)
+[1.007s] Copying ../../build/dh_based/dh_based.egg-info to /home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages/dh_based-0.0.0-py3.12.egg-info
+[1.007s] running install_scripts
+[1.107s] Installing DH_param script to /home/itachi/ws/iiwa_ws/install/dh_based/lib/dh_based
+[1.107s] writing list of installed files to '/home/itachi/ws/iiwa_ws/build/dh_based/install.log'
+[1.127s] Invoked command in '/home/itachi/ws/iiwa_ws/src/dh_based' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/itachi/ws/iiwa_ws/build/dh_based/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itachi/ws/iiwa_ws/install/dh_based/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dh_based build --build-base /home/itachi/ws/iiwa_ws/build/dh_based/build install --record /home/itachi/ws/iiwa_ws/build/dh_based/install.log --single-version-externally-managed install_data

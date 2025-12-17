@@ -1,0 +1,4 @@
+[console_scripts]
+my_generator = joint_space.my_generator:main
+trapezoid_motion = joint_space.trapezoid_motion:main
+trapezoidal_generator = joint_space.trapezoidal_generator:main
